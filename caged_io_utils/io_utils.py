@@ -1,5 +1,7 @@
 import os
+import ffmpeg
 import shutil
+from tqdm import tqdm
 from typing import Dict, List
 
 
@@ -16,8 +18,9 @@ class VideoExtractor:
         :return: A dictionary d[directory, video_list]
         """
         return \
-            {int(video_dir): {f'{self.data_path}/{video_dir}/video_files': os.listdir(f'{self.data_path}/{video_dir}/video_files')}
-             for video_dir in os.listdir(self.data_path) if os.path.isdir(f'{self.data_path}/{video_dir}')}
+            {int(video_dir): {
+                f'{self.data_path}/{video_dir}/video_files': os.listdir(f'{self.data_path}/{video_dir}/video_files')}
+                for video_dir in os.listdir(self.data_path) if os.path.isdir(f'{self.data_path}/{video_dir}')}
 
     def _get_video_paths(self, video_dict: Dict[str, List[str]]) -> List[str]:
         """
@@ -40,3 +43,17 @@ class VideoExtractor:
             video_sources = self._get_video_paths(dict_values)
             for id_, source in enumerate(video_sources):
                 shutil.copy(f'{absolute_path}/{source}', f'{target_path}/{key}-{id_}.mov')
+
+
+def convert_mov_to_mp4(mov_file: str):
+    # Answer to: https://stackoverflow.com/questions/64519818/converting-mkv-files-to-mp4-with-ffmpeg-python
+    name, ext = os.path.splitext(mov_file)
+    out_name = f'{name}.mp4'
+    ffmpeg.input(mov_file).output(out_name, vcodec='h264').run()
+    print("Finished converting {}".format(mov_file))
+
+
+def convert_videos(path: str):
+    videos = os.listdir(path)
+    for video in tqdm(videos):
+        convert_mov_to_mp4(f'{path}/{video}')
