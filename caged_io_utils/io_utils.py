@@ -59,11 +59,11 @@ class VideoExtractor:
                 concatenated_clip = concatenate_videoclips(clips)
                 # write the output video file
                 concatenated_clip.write_videofile(f'{target_path}/{key}_temp.mp4')
-                command = f'ffmpeg -i {target_path}/{key}_temp.mp4.mp4 -filter:v "crop=1371:1080:549:0" -c:a copy {target_path}/{key}.mp4'
+                command = f'ffmpeg -i {target_path}/{key}_temp.mp4 -filter:v "crop=1371:1080:550:0" {target_path}/{key}.mp4'
                 os.system(command)
                 os.system(f'rm -R {target_path}/{key}_temp.mp4')
             else:
-                command = f'ffmpeg -i {video_sources[0]}.mp4 -filter:v "crop=1371:1080:549:0" -c:a copy {target_path}/{key}.mp4'
+                command = f'ffmpeg -i {video_sources[0]} -filter:v "crop=1371:1080:550:0" {target_path}/{key}.mp4'
                 os.system(command)
 
 
