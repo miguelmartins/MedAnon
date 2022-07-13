@@ -1,0 +1,1194 @@
+[
+  {
+      "name": "Esophagus (proximal)",
+      "color": "#d5282b",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastric heterotopia"
+                  },
+                  {
+                      "name": "Esophageal diverticula"
+                  },
+                  {
+                    "name": "Hiatal hernia"
+                  },
+                  {
+                    "name": "Barrett’s esophagus"
+                  },
+                  {
+                    "name": "Grade A esophagitis"
+                  },
+                  {
+                    "name": "Grade B esophagitis"
+                  },
+                  {
+                    "name": "Grade C esophagitis"
+                  },
+                  {
+                    "name": "Grade D esophagitis"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion"
+                  },
+                  {
+                    "name": "Advanced neoplastic lesion"
+                  },
+                  {
+                    "name": "Peptic or iatrogenic stricture"
+                  },
+                  {
+                    "name": "Schatzki ring"
+                  },
+                  {
+                    "name": "Esophageal papilloma"
+                  },
+                  {
+                    "name": "Esophageal ulcer"
+                  },
+                  {
+                    "name": "Candidiasis / infectious esophagitis"
+                  },
+                  {
+                    "name": "Esophago-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Esophago-gastric anastomosis"
+                  }
+
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Esophagus (distal)",
+      "color": "#650305",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastric heterotopia"
+                  },
+                  {
+                      "name": "Esophageal diverticula"
+                  },
+                  {
+                    "name": "Hiatal hernia"
+                  },
+                  {
+                    "name": "Barrett’s esophagus"
+                  },
+                  {
+                    "name": "Grade A esophagitis"
+                  },
+                  {
+                    "name": "Grade B esophagitis"
+                  },
+                  {
+                    "name": "Grade C esophagitis"
+                  },
+                  {
+                    "name": "Grade D esophagitis"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion"
+                  },
+                  {
+                    "name": "Advanced neoplastic lesion"
+                  },
+                  {
+                    "name": "Peptic or iatrogenic stricture"
+                  },
+                  {
+                    "name": "Schatzki ring"
+                  },
+                  {
+                    "name": "Esophageal papilloma"
+                  },
+                  {
+                    "name": "Esophageal ulcer"
+                  },
+                  {
+                    "name": "Candidiasis / infectious esophagitis"
+                  },
+                  {
+                    "name": "Esophago-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Esophago-gastric anastomosis"
+                  }
+
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "EG junction anteversion (Z Line)",
+      "color": "#741b47",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastric heterotopia"
+                  },
+                  {
+                      "name": "Esophageal diverticula"
+                  },
+                  {
+                    "name": "Hiatal hernia"
+                  },
+                  {
+                    "name": "Barrett’s esophagus"
+                  },
+                  {
+                    "name": "Grade A esophagitis"
+                  },
+                  {
+                    "name": "Grade B esophagitis"
+                  },
+                  {
+                    "name": "Grade C esophagitis"
+                  },
+                  {
+                    "name": "Grade D esophagitis"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion"
+                  },
+                  {
+                    "name": "Advanced neoplastic lesion"
+                  },
+                  {
+                    "name": "Peptic or iatrogenic stricture"
+                  },
+                  {
+                    "name": "Schatzki ring"
+                  },
+                  {
+                    "name": "Esophageal papilloma"
+                  },
+                  {
+                    "name": "Esophageal ulcer"
+                  },
+                  {
+                    "name": "Candidiasis / infectious esophagitis"
+                  },
+                  {
+                    "name": "Esophago-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Esophago-gastric anastomosis"
+                  }
+
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Pylorus",
+      "color": "#e9184c",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Duodenal bulb",
+      "color": "#ed466f",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Erosive duodenopathy"
+                  },
+                  {
+                    "name": "Duodenal ulcer"
+                  },
+                  {
+                    "name": "Duodenal diverticula"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Duodenal adenoma"
+                  },
+                  {
+                    "name": "Duodenal cancer"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Descending duodenum",
+      "color": "#f48ba5",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Erosive duodenopathy"
+                  },
+                  {
+                    "name": "Duodenal ulcer"
+                  },
+                  {
+                    "name": "Duodenal diverticula"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Duodenal adenoma"
+                  },
+                  {
+                    "name": "Duodenal cancer"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Antrum GC",
+      "color": "#18e9b5",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Antrum PW",
+      "color": "#13ba90",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Antrum AW",
+      "color": "#0e8b6c",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Antrum LC",
+      "color": "#095d48",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Antrum (wide view)",
+      "color": "#042e24",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Lower body / transition (wide view)",
+      "color": "#b158e9",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Angulus (retroflex)",
+      "color": "#4c18e9",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Fundus",
+      "color": "#cb5ef0",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Cardia (retroflex)",
+      "color": "#e8b9f8",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Body proximal (retroflex)",
+      "color": "#a215d1",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Body distal (wide)",
+      "color": "#9013ba",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Gastric middle-upper G",
+      "color": "#d274f1",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastro-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Fundic gland polyp"
+                  },
+                  {
+                    "name": "Hyperplastic polyp"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion / early gastric cancer"
+                  },
+                  {
+                    "name": "Advanced gastric cancer"
+                  },
+                  {
+                    "name": "Peptic stricutre"
+                  },
+                  {
+                    "name": "Gastric ulcer"
+                  },
+                  {
+                    "name": "Xanthelasma"
+                  },
+                  {
+                    "name": "Erosive gastropathy"
+                  },
+                  {
+                    "name": "Angiodysplasia"
+                  },
+                  {
+                    "name": "Subepithelial lesion"
+                  }
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "name": "Esophagus",
+      "color": "#e1686a",
+      "attribute_groups": [
+          {
+              "name": "Findings",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "Gastric heterotopia"
+                  },
+                  {
+                      "name": "Esophageal diverticula"
+                  },
+                  {
+                    "name": "Hiatal hernia"
+                  },
+                  {
+                    "name": "Barrett’s esophagus"
+                  },
+                  {
+                    "name": "Grade A esophagitis"
+                  },
+                  {
+                    "name": "Grade B esophagitis"
+                  },
+                  {
+                    "name": "Grade C esophagitis"
+                  },
+                  {
+                    "name": "Grade D esophagitis"
+                  },
+                  {
+                    "name": "Superficial neoplastic lesion"
+                  },
+                  {
+                    "name": "Advanced neoplastic lesion"
+                  },
+                  {
+                    "name": "Peptic or iatrogenic stricture"
+                  },
+                  {
+                    "name": "Schatzki ring"
+                  },
+                  {
+                    "name": "Esophageal papilloma"
+                  },
+                  {
+                    "name": "Esophageal ulcer"
+                  },
+                  {
+                    "name": "Candidiasis / infectious esophagitis"
+                  },
+                  {
+                    "name": "Esophago-jejunal anastomosis"
+                  },
+                  {
+                    "name": "Esophago-gastric anastomosis"
+                  }
+
+              ]
+          },
+          {
+              "name": "Modalities",
+              "is_multiselect": 1,
+              "attributes": [
+                  {
+                      "name": "NBI"
+                  },
+                  {
+                      "name": "Intervention"
+                  },
+                  {
+                    "name": "Chromoendoscopy"
+                  }
+              ]
+          }
+      ]
+  }
+]
